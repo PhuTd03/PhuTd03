@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm James</h1>
+<h1 align="center">Hi guys, my name is Phu 🫶🏻</h1>
 
-<h3 align="center">A passionate Full Stack undergraduate from Viet Nam 👋</h3>
+<h3 align="center">I am a Junior student majoring in AI at FPT University</h3>
 
 [![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/assets/fatsfish.gif)](https://www.facebook.com/Fatsfish.D.James)
 
 - 🔭 I’m currently working on [B0sses' Projects](https://discord.gg/2gXCKZCNHF)
 
-- 🌱 I’m currently learning **ASP.net, Azure, Flutter, Microservice Architecture**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Computer Vision**
 
-- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Fatsfish?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/PhuTd03?tab=repositories)
 
-- 📝 I regularly write articles on [My Facebook Page](https://www.facebook.com/Fatsfish.D.James)
-
-- 💬 Ask me about **Java, C, C++, HTML5, CSS, Bootstrap, Azure, ASP.net, Flutter, Microservice Architecture**
+- 💬 Ask me about **Python, R Programming**
 
 - 📄 Know about my experiences [Through My Certifications](https://github.com/Fatsfish/Certification)
 
@@ -20,7 +18,7 @@
 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatsfish&label=Profile%20views&color=0e75b6&style=flat" alt="fatsfish" /> </p>
 
-- 📫 How to reach me **tuankhai512@gmail.com**
+- 📫 Contact me **daiphu20203@gmail.com**
 
 - 👯 I’m looking to collaborate on [Skillcetera's projects](https://www.facebook.com/skillcetera)
 
