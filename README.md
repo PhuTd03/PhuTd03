@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a Junior student majoring in AI at FPT University</h3>
 
-[![Social banner for fatsfish](https://github.com/Fatsfish/Fatsfish/blob/main/assets/fatsfish.gif)](https://www.facebook.com/Fatsfish.D.James)
+[![Social banner for phutd03](https://github.com/PhuTd03/PhuTd03/blob/main/Resource/PhuTd03.gif)](https://www.facebook.com/daiphu.tran.77/)
 
 - 🔭 I’m currently working on [B0sses' Projects](https://discord.gg/2gXCKZCNHF)
 
