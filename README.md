@@ -1,4 +1,4 @@
-<h1 align="center">Hi guys, my name is Phu 🫶🏻</h1>
+<h1 align="center">Welcome to my profile🫶🏻</h1>
 
 <h3 align="center">I am a Junior student majoring in AI at FPT University</h3>
 
